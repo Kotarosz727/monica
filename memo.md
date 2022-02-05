@@ -8,3 +8,8 @@ https://stackoverflow.com/questions/46013544/yarn-install-command-error-no-such-
 apt get -y npm
 
 yarn run production
+
+.npm再インストール
+npm install -g npm
+
+「permission denied, open '/var/www/html/public/js/app.js'」
